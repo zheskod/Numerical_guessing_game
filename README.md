@@ -13,3 +13,4 @@ Educational mini-project<br><br>
 Бесконечный цикл;<br>
 Операторы break, continue;<br>
 Работа с модулем random для генерации случайных чисел.<br>
+
